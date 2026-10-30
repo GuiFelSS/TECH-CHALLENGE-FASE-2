@@ -1,7 +1,6 @@
 # Tech Challenge - Fase 2
 
-##
-LINK DO VÍDEO:
+## LINK DO VÍDEO:
 [https://youtu.be/8_ZvFD2BmbA](https://youtu.be/8_ZvFD2BmbA)
 
 ## Sobre o projeto
