@@ -1,5 +1,9 @@
 # Tech Challenge - Fase 2
 
+##
+LINK DO VÍDEO:
+[https://youtu.be/8_ZvFD2BmbA](https://youtu.be/8_ZvFD2BmbA)
+
 ## Sobre o projeto
 
 API REST para gerenciamento de restaurantes, usuários, tipos de usuário, endereços, tipos de cozinha e itens de cardápio. O projeto foi estruturado em camadas inspiradas em Clean Architecture e mantém as regras de negócio independentes da camada HTTP e da persistência.
@@ -267,5 +271,5 @@ O fluxo cria os recursos na ordem de suas dependências, captura os IDs nas vari
 
 ## Autor
 
-- Tadeu Matos
-- Guilherme Felipe da Silva Souza
+- Tadeu Matos - RM 376372
+- Guilherme Felipe da Silva Souza  - RM 376359
